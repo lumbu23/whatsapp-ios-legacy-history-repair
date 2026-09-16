@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+
+# Never commit real iPhone/WhatsApp data
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+Manifest.db
+Manifest.plist
+Info.plist
+Status.plist
+backup-snapshots/
